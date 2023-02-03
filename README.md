@@ -1,4 +1,4 @@
-# Pressurised spherocylinders with helical reinforcement
+# Pressurized spherocylinders with helical reinforcement
 
 Cesar L. Pastrana, 2022 (c)
 
