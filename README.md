@@ -3,7 +3,7 @@
 Cesar L. Pastrana, 2022 (c)
 
 This software was used in the manuscript "Pressure-induced shape-shifting of helical bacteria" by Pastrana C.L, Qiu L., Armon S., Gerland U., and Amir A.
-\([Soft Matter]https://pubs.rsc.org/en/content/articlelanding/2023/SM/D2SM01044E\), 19(12) 2023: 2224-2230.
+[Soft Matter](https://pubs.rsc.org/en/content/articlelanding/2023/SM/D2SM01044E, 19(12) 2023: 2224-2230).
 
 ## Description
 The surface is described using a discrete bead and spring model. The total energy of the system at a pressure $p$ is expressed as:
