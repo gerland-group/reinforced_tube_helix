@@ -6,9 +6,7 @@ This software was used in the manuscript "Pressure-induced shape-shifting of hel
 [Soft Matter](https://pubs.rsc.org/en/content/articlelanding/2023/SM/D2SM01044E) 19(12), 2023: 2224-2230.
 
 ## Description
-The surface is described using a discrete bead and spring model. The total energy of the system at a pressure $p$ is expressed as:
-
-$$ E = \frac{k_s}{2}\sum_{\langle i,j\rangle} (r_{ij} - r_{ij}^0)^2 +  k_b\sum_{\langle\alpha,\beta\rangle}(1 - \hat{n}_{\alpha}\cdot\hat{n}_{\beta}) -pV$$
+The surface is described using a discrete bead and spring model. The total energy of the system at a pressure $p$ is expressed as:$$ E = \frac{k_s}{2}\sum_{\langle i,j\rangle} (r_{ij} - r_{ij}^0)^2 +  k_b\sum_{\langle\alpha,\beta\rangle}(1 - \hat{n}_{\alpha}\cdot\hat{n}_{\beta}) -pV$$
 
 where the first sum runs over all pairs of connected notes $i,j$ constituting an edge of the mesh and $r_{ij} = |r_i - r_j|$; and the second sum is over pair of triangles $\alpha,\beta$ sharing an edge, $\hat{n}$ are their respective normal vectors and $k_b$ is a bending stiffness. For a detailed description of the relation between the discrete $k_x$ and the continum variables (Young modulus, thickness and Poisson ratio) see Soung H.S. and Nelson D, R. \([Phys. Rev. A 38,1005--1018, 1988](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.38.1005)\).
 
